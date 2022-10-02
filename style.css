@@ -7,6 +7,10 @@
   background-color: #e2edfe;
 }
 
+#stack {
+  background-color: #e2edfe;
+}
+
 section {
   padding-top: 5rem;
 }
@@ -17,4 +21,11 @@ section {
 
 #gallery .row > * {
   padding: 0;
+}
+
+#stack img {
+  width: 200px;
+  margin-top: 35px;
+  margin-left: 50px;
+  padding: 20px;
 }
